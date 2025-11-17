@@ -1,0 +1,1 @@
+- Ter uma seção no site para registrar "Upcoming Conferences"
