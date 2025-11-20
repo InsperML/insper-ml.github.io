@@ -1,0 +1,8 @@
+{
+  "id": "bruno_costa",
+  "name": "Dr. Bruno Costa",
+  "title": "Postdoctoral Researcher",
+  "position": "Postdoc",
+  "bio": "Works on scalable deep learning, optimization, and efficient training for large models.",
+  "themes": ["Deep Learning", "Optimization", "Systems for ML"]
+}

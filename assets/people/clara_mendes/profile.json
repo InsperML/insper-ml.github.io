@@ -1,0 +1,8 @@
+{
+  "id": "clara_mendes",
+  "name": "Clara Mendes",
+  "title": "PhD Student",
+  "position": "Student",
+  "bio": "PhD student researching interpretability and fairness in machine learning models.",
+  "themes": ["Interpretability", "Fairness", "Explainable AI"]
+}

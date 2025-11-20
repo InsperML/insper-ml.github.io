@@ -1,0 +1,8 @@
+{
+  "id": "ana_silva",
+  "name": "Prof. Ana Silva",
+  "title": "Associate Professor",
+  "position": "Group lead",
+  "bio": "Researcher working on probabilistic modelling, causality, and Bayesian methods. Leads projects on uncertainty quantification and interpretable models.",
+  "themes": ["Probabilistic Models", "Causality", "Bayesian Methods"]
+}
